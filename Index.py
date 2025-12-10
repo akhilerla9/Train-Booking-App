@@ -6,8 +6,8 @@ import json
 import os
 
 # File paths
-USERDATA = r"F:\Data Science + Gen AI\UseCases\IRCTC Traing Booking App\Userdata.json"
-DATASET = r"F:\Data Science + Gen AI\UseCases\IRCTC Traing Booking App\Dataset.json"
+USERDATA = "Userdata.json"
+DATASET = "Dataset.json"
 
 # ----------------- Utility Functions -----------------
 
